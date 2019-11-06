@@ -1,0 +1,14 @@
+{
+    "name": "xaoc-303/fibonacci-php",
+    "require": {
+        "php": ">7.1"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7"
+    },
+    "autoload": {
+        "files": [
+            "src/fibo.php"
+        ]
+    }
+}
